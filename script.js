@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         linkedin: "https://linkedin.com/in/mario-jodar",
 
-        job: "Ancien Chargé de Secteur - CS504"
+        job: "Gestionnaire de Base de Données patrimoniales"
 
     };
 
